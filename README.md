@@ -1,2 +1,2 @@
-# customers-cleaned-project
-Data cleaning and analysis on customer dataset using pandas 
+#Internship
+Soft Nexis Internship
